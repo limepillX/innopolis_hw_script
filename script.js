@@ -69,7 +69,6 @@ thead_style.top = '0'
 
 waitForElm('.sorting_1').then(() => {
     document.getElementById('sound_button').remove()
-    document.getElementById('warning').remove()
 
     document.title = 'Загружено!'
     var names = $('.sorting_1')
