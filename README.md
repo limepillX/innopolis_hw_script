@@ -20,7 +20,6 @@
 
 4. ### Закрепление строчки с номерами ДЗ и столбика с фамилиями.
 Из-за того, что таблица массивная, когда Вы скроллите далеко направо или вниз, Вы перестаёте видеть номера ДЗ и ФИО студентов. Это тоже поправил.
-
 ![image](https://user-images.githubusercontent.com/59223504/220991683-0f4fd79e-9775-4ebd-95f0-a0e85cb6cdea.png)
 
 <hr>
@@ -31,7 +30,6 @@
 ![image](https://user-images.githubusercontent.com/59223504/220985029-933851b3-8a11-416e-86af-835063422fed.png)
 
 1. После установки **Tampermonkey**, [ссылка](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en). Справа вверху должен появится значок:
-
 ![image](https://user-images.githubusercontent.com/59223504/220985464-622d2760-8b98-469f-97f1-3fce41fa5033.png)
 
 2. Кликаем на него (**обязательно находясь на сайте проверки дз**), появится список:
@@ -41,9 +39,7 @@
 ![image](https://user-images.githubusercontent.com/59223504/220985862-c551c92b-0e0b-410d-ac48-077bc4b1773c.png)
 
 4. Заменяем **только** строчку ```// Your code here...``` на код из файла в этом репозитории.
-
 Должно получится что-то вида:
-
 ![image](https://user-images.githubusercontent.com/59223504/220989938-2c150470-d2ed-4ae8-ae1d-63faec3d468f.png)
 
 Сохраняем (ctrl+s), перезагружаем страницу с ДЗ.
