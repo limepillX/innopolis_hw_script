@@ -42,13 +42,13 @@ waitForElm('.sorting_1').then(() => {
         cell.parentElement.parentElement.parentElement.parentElement.style.background = "#fac0c0"
     }
 
-    for (var name of name){
-        names.style.position = 'sticky';
-        names.style.left = '0';
-        names.style.background = 'white';
+    for (var name of names){
+        name.style.position = 'sticky';
+        name.style.left = '0';
+        name.style.background = 'white';
     }
 
-    if (!checked_lenght){checked = 0}
+    if (!checked_lenght){checked_lenght = 0}
     if (!unchecked){unchecked = 0}
 
     cell_for_dz_count.innerHTML = `Количество непроверенных дз - ${unchecked.length}; Количество проверенных дз - ${checked_lenght}`;
