@@ -33,7 +33,7 @@
 <hr>
 
 # Порядок установки скрипта
-Для работы скрипта требуется установить расширение для браузера **Tampermonkey**, [ссылка](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en). После чего перейти на страницу проверки ДЗ, советую поставить, чтобы показывало 50 записей сразу.
+Для работы скрипта требуется установить расширение для браузера **Tampermonkey**, [ссылка](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en). После чего перейти на страницу проверки ДЗ, важно поставить 50 или 100 записей за раз (чтобы было видно всех студентов), иначе подсчёт проверенных ДЗ будет работать неправильно.
 
 ![image](https://user-images.githubusercontent.com/59223504/220985029-933851b3-8a11-416e-86af-835063422fed.png)
 
